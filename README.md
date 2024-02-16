@@ -1,4 +1,4 @@
-WorldwWise
+WorldWise
 
 This web application is made with the help of Vite .
 In this web app Dummy,the user can add the cities where he/she has travelled along with a handy map to navigate.
